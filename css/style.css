@@ -13,9 +13,14 @@ div {
 
 body>.container_fluid {
     background-color: blue;
-    height: 1000px;
+    height: 10px;
 }
 
 p{
     margin-left: 20px; 
+}
+
+.item {
+    height: 300px;
+    background-color: chocolate;
 }
